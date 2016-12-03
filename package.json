@@ -1,6 +1,6 @@
 {
   "name": "pkg-b",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "this is a test package publish",
   "repository": "khaled-hossain-code/npm-package-publish",
   "main": "index.js",
