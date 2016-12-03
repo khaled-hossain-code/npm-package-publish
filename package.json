@@ -2,6 +2,7 @@
   "name": "pkg-b",
   "version": "1.0.0",
   "description": "this is a test package publish",
+  "repository": "khaled-hossain-code/npm-package-publish",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
